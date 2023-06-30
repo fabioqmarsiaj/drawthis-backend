@@ -10,7 +10,7 @@ Este README se dedica apenas ao backend do projeto.
 ## Summary
 
 - [Tecnologias](#tecnologias)
-- [Autores](#autor)
+- [Autores](#autores)
 
 ## Tecnologias
 
