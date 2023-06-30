@@ -14,8 +14,12 @@ Este README se dedica apenas ao backend do projeto.
 
 ## Tecnologias
 
-Para este projeto decidimos usar as tecnologias: SpringBoot, MongoDB, Heroku e SonarQube na Cloud.
+Para este projeto decidimos usar as tecnologias: Java17, SpringBoot 2.7.13, MongoDB, Heroku e SonarQube na Cloud.
 Bem como as github actions para criação das pipelines de deploy.
+
+Heroku será usado para rodar em produção as API's.
+
+SonarQube utilizaremos em todo PR rodar testes automatizados onde apontará sugestões de código bem como cobertura de testes.
 
 Por hora a arquitetura do backend vai ser básica, uma API RESTful onde o frontend fará as chamadas.
 
