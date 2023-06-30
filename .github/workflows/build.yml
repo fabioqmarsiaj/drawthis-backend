@@ -28,6 +28,7 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
+        fetch-depth: 0
     - name: Cache SonarCloud packages
       uses: actions/cache@v3
       with:
