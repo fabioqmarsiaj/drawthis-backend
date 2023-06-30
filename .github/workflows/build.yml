@@ -9,9 +9,9 @@ name: Java CI with Gradle and Sonar
 
 on:
   push:
-    branches: [ "main, development" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "main, development" ]
+    branches: [ "main" ]
 
 permissions:
   contents: read
